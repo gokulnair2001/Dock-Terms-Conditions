@@ -38,7 +38,7 @@ I may update our Terms and Conditions from time to time. Thus, you are advised t
 
 These terms and conditions are effective as of 2021-05-20
 
-**Contact Us**
+## Contact Us
 
 If you have any questions or suggestions about my Terms and Conditions, do not hesitate to contact me at gokulnair.2001@gmail.com .
 
