@@ -11,15 +11,7 @@ at any time and for any reason. We will never charge you for the app or its serv
 The Dock app do not stores and processes personal data that you have provided to us, in order to provide our Service. 
 It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone,
 which is the process of removing software restrictions and limitations imposed by the official operating system of your device. 
-It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Dock app won’t work properly or at all.
-
-The app does use third party services that declare their own Terms and Conditions. But the good news is those third party libraries are made by us so we can assure you that, those
-libraries wont take any of your personal data which you provide to our app(if any). The libraries we have used is 100% cookie free, so now you can use every service of those libraries without getting tensed about your data. 
-
-Links to the License page of third party service providers used by the app
-
-*   [Loafjet](https://github.com/Loafjet/Loafjet/blob/master/LICENSE)
-*   [Capo](https://github.com/CapoFrame/Capo/blob/master/LICENSE)
+It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Dock! app won’t work properly or at all.
 
 You should be aware that there are certain things that we will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
